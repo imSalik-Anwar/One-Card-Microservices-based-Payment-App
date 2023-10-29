@@ -10,7 +10,7 @@ Card Service: This enables setting spending limits, adding funds, activating/dea
 
 Transaction Management: The Transaction Service records various transaction types, allowing parents to monitor and ensure accurate financial records.
 
-**Advanced Features** ================================================================
+**Advanced Features** ====================================================================
 
 Role-Based Authentication: Different roles for guardians and children enhance data security, permitting only authorized access.
 
