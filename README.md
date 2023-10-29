@@ -2,7 +2,7 @@
 
 I created a microservices-based Spring Boot application, a digital payment platform for parents and guardians. Its core purpose is to enable remote management of children's expenses. The app consists of three microservices: Profile Service (user registration and updates), Card Service (spending control and card management), and Transaction Service (financial transaction management).
 
-**Key Features** =======================================================================================================================
+**Key Features** ======================================================================
 
 Effortless Registration: Guardians can register themselves and their children, automatically generating a digital payment card for each child. This simplifies family financial management.
 
@@ -10,7 +10,7 @@ Card Service: This enables setting spending limits, adding funds, activating/dea
 
 Transaction Management: The Transaction Service records various transaction types, allowing parents to monitor and ensure accurate financial records.
 
-**Advanced Features** ===================================================================================================================
+**Advanced Features** ================================================================
 
 Role-Based Authentication: Different roles for guardians and children enhance data security, permitting only authorized access.
 
